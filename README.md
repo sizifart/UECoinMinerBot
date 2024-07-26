@@ -1,0 +1,2 @@
+# UECoinMinerBot
+UECoinMinerBot App AutoClicker
